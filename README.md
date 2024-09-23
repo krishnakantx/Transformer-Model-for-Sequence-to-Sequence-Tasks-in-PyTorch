@@ -1,0 +1,2 @@
+# Transformer-Model-for-Sequence-to-Sequence-Tasks-in-PyTorch
+This code implements a Transformer model for seq2seq tasks in PyTorch, inspired by the paper 'Attention is All You Need.' It facilitates tasks like machine translation and text summarization, using self-attention mechanisms for improved performance. The code includes data preprocessing, model training, and evaluation scripts for easy customization.
